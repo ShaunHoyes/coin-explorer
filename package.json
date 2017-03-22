@@ -1,0 +1,23 @@
+{
+  "name": "coin-explorer",
+  "version": "1.0.0",
+  "description": "web app that generates reports on various cryptocurrencies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaunHoyes/coin-explorer.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "cryptocurrency"
+  ],
+  "author": "Shaun Hoyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaunHoyes/coin-explorer/issues"
+  },
+  "homepage": "https://github.com/ShaunHoyes/coin-explorer#readme"
+}
